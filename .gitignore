@@ -1,0 +1,30 @@
+# =============== #
+# Unity generated #
+# =============== #
+/SceneSearcher/Library
+/SceneSearcher/obj
+/SceneSearcher/Temp
+/SceneSearcher/Logs
+/SceneSearcher/UnityGenerated
+
+# =========================== #
+# Resharper / Rider generated #
+# =========================== #
+/SceneSearcher/.idea
+
+/SceneSearcher/.vs
+/SceneSearcher/*.sln
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/SceneSearcher/ExportedObj
+/SceneSearcher/*.csproj
+/SceneSearcher/*.userprefs
+/SceneSearcher/*. unityproj
+/SceneSearcher/*.svd
+/SceneSearcher/*.pidb
+/SceneSearcher/*.suo
+/SceneSearcher/*.user
+/SceneSearcher/*.booproj
+/SceneSearcher/*.htm
